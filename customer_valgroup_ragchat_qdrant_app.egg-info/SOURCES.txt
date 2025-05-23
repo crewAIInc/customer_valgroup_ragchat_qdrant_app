@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+streamlit_app.py
+customer_valgroup_ragchat_qdrant_app.egg-info/PKG-INFO
+customer_valgroup_ragchat_qdrant_app.egg-info/SOURCES.txt
+customer_valgroup_ragchat_qdrant_app.egg-info/dependency_links.txt
+customer_valgroup_ragchat_qdrant_app.egg-info/requires.txt
+customer_valgroup_ragchat_qdrant_app.egg-info/top_level.txt

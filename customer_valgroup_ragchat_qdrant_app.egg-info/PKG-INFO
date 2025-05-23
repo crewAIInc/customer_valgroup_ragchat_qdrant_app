@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: customer-valgroup-ragchat-qdrant-app
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit>=1.32.0
+Requires-Dist: requests>=2.31.0
+Requires-Dist: python-dotenv>=1.0.1
+Requires-Dist: boto3>=1.38.6

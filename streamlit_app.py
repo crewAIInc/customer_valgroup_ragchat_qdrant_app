@@ -45,7 +45,7 @@ def check_password():
         return True
 
     # Show inputs for username + password
-    st.title("CrewAI Use Case Generator Login")
+    st.title("Login")
     
     # Display login form
     with st.form("login_form"):
